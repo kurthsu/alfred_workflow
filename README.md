@@ -8,6 +8,7 @@ To install a wokflow, only to download the workflow file and then double-click o
 Tyme2 is time tracking tool to help me to track my time spent. You need to get [Tyme2](https://www.tyme-app.com) from App Store.
 
 The following are the keywords defined:
+
 | Command           | Description |
 | ----------------- | ----------- |
 | t{project_name} | Start to track the time for the selected task of project |
@@ -24,10 +25,11 @@ brew cask install java
 
 Then, you need to download and extract it from [UMLet](http://www.umlet.com) site. And, you need to export the installation path to your zsh profile.
 ```
-echo 'export UMLET_HOME="~/Software/Umlet/"' >> ~/.zshrc
+echo 'export UMLET_HOME="/Users/kurt/Software/Umlet/"' >> ~/.zshrc
 ```
 
 The following are the keywords defined:
+
 | Command           | Description |
 | ----------------- | ----------- |
 | umlet | Launch UMLet via Java |
